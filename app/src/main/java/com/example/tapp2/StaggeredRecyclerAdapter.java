@@ -61,6 +61,8 @@ public class StaggeredRecyclerAdapter extends RecyclerView.Adapter<StaggeredRecy
         return mdata.size();
     }
 
+
+
     public class ImageViewHolder extends RecyclerView.ViewHolder{
 
         ImageView img;

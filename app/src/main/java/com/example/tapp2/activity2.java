@@ -53,21 +53,22 @@ public class activity2 extends AppCompatActivity {
 
         //-----------ImageButton "sing in" -----------//
         enter = (ImageButton) findViewById(R.id.ButtonSI);
-        enter.setOnClickListener(new View.OnClickListener() {
-                                     @Override
-                                     public void onClick(View view) {
-                                         final String Name = name.getText().toString();
-                                         final String Password = password.getText().toString();
-                                         final String Emale = emale.getText().toString();
-                                         if (Name.isEmpty() || Password.isEmpty() || Emale.isEmpty()) {
+        enter.setOnClickListener(
+                new View.OnClickListener() {
+                    @Override
+                    public void onClick(View view) {
+                        final String Name = name.getText().toString();
+                        final String Password = password.getText().toString();
+                        final String Emale = emale.getText().toString();
+                        if (Name.isEmpty() || Password.isEmpty() || Emale.isEmpty()) {
 
-                                             showMassageDialog("Fill all fields, IDIOT");
-                                         }
-                                         else {
-                                             openShot3();
-                                         }
-                                     }
-                                 }
+                            showMassageDialog("Fill all fields, IDIOT");
+                        }
+                        else {
+                            openShot3();
+                        }
+                    }
+                }
         );
 
 
