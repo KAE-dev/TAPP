@@ -7,7 +7,8 @@ Android SDK 28 <br/>
 Android Build Tools v29.0.0 <br/>
 
 ## FigmaPrototype
-![скрин приложения](https://user-images.githubusercontent.com/52564571/61790183-3a7cfe00-ae1f-11e9-9d8c-517847f55d0c.png)
+![прототип](https://user-images.githubusercontent.com/52564571/61861438-981f5200-aed4-11e9-839a-5aa311742a11.jpg)
+[https://www.figma.com/file/Bp1biF7ccRVgZMLGqJVG58/TApp2?node-id=0%3A1](url)
 
 ## License
 Copyright 2019 ObivanKenobiDark
