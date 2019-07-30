@@ -18,9 +18,7 @@ Android Build Tools v29.0.0 <br/>
 
 
 ## FigmaPrototype
-![prot](https://user-images.githubusercontent.com/52564571/62153588-93600100-b30d-11e9-971c-ffd3eb4893a1.png)
-
-[https://www.figma.com/file/Bp1biF7ccRVgZMLGqJVG58/TApp2?node-id=0%3A1](url)
+[![prot](https://user-images.githubusercontent.com/52564571/62153588-93600100-b30d-11e9-971c-ffd3eb4893a1.png)](https://www.figma.com/file/Bp1biF7ccRVgZMLGqJVG58/TApp2?node-id=0%3A1)
 
 
 ## License
