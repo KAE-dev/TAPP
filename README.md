@@ -6,9 +6,22 @@ Supports API 15+ (Earlier APIs not tested) <br/>
 Android SDK 28 <br/>
 Android Build Tools v29.0.0 <br/>
 
+## Implementation
+### User registration
+![первый](https://user-images.githubusercontent.com/52564571/62152929-30219f00-b30c-11e9-9b58-8998482796e7.gif)
+![второй](https://user-images.githubusercontent.com/52564571/62152933-31eb6280-b30c-11e9-9f6d-3e2bef86f10d.gif)<br/>
+
+### FloatingActionButton, RecyclerView, Button
+![третий](https://user-images.githubusercontent.com/52564571/62148613-b76a1500-b302-11e9-97ac-8d00d1bd4c67.gif)
+![четвертый](https://user-images.githubusercontent.com/52564571/62148753-fd26dd80-b302-11e9-8ea5-cffeb3b2b071.gif)<br/>
+
+
+
 ## FigmaPrototype
-![прототип](https://user-images.githubusercontent.com/52564571/61861438-981f5200-aed4-11e9-839a-5aa311742a11.jpg)
+![prot](https://user-images.githubusercontent.com/52564571/62153588-93600100-b30d-11e9-971c-ffd3eb4893a1.png)
+
 [https://www.figma.com/file/Bp1biF7ccRVgZMLGqJVG58/TApp2?node-id=0%3A1](url)
+
 
 ## License
 Copyright 2019 ObivanKenobiDark
